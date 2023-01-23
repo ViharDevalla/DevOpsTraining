@@ -1,0 +1,11 @@
+ip,cpu,memory,service,healthy
+10.58.1.8,52,0,GroupService,Healthy
+10.58.1.129,45,74,GroupService,Healthy
+10.58.1.124,10,61,GroupService,Healthy
+10.58.1.101,97,89,GroupService,Unhealthy
+10.58.1.18,36,64,GroupService,Healthy
+10.58.1.7,62,60,GroupService,Healthy
+10.58.1.41,26,24,GroupService,Healthy
+10.58.1.48,20,88,GroupService,Unhealthy
+10.58.1.49,41,71,GroupService,Healthy
+10.58.1.100,45,98,GroupService,Unhealthy
